@@ -1,0 +1,25 @@
+body {
+    background: #000000;
+}
+
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-family: sans-serif;
+    font-weight: 300;
+    font-size: 30px;
+    color: #ffffff;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+p {
+    font-family: sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+    color: #ffffff;
+    text-align: center;
+}
